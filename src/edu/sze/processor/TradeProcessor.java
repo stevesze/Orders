@@ -10,8 +10,9 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Properties;
 import java.util.Vector;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import edu.sze.bean.BrokerUniqueID;
 import edu.sze.bean.FirmsBean;
@@ -20,7 +21,7 @@ import edu.sze.util.ProcessResult;
 
 public class TradeProcessor {
 	
-    private static Logger logger = Logger.getLogger(TradeProcessor.class.getName());
+    private final static Logger logger = LogManager.getLogger(TradeProcessor.class.getName());
 
     private String propFile = "order.properties";
     
@@ -31,8 +32,8 @@ public class TradeProcessor {
     
     
     public static void main(String[] args) {
-    	
-    	logger.log(Level.INFO, "****** Starting Trade Checks ******");
+
+    	logger.info("****** Starting Trade Checks ******");
 
         TradeProcessor tp = new TradeProcessor();
         String trades = tp.getList();
@@ -126,26 +127,29 @@ public class TradeProcessor {
     		reader.close();
     		
     	} catch (IOException ex) {
-    		logger.log(Level.SEVERE, ex.getMessage());
+    		logger.error(ex.getMessage());
     	}
     }
 
     private boolean checkFields(String[] trade) {
     	boolean allFieldsExist = true;
     	int index = 0;
+    	StringBuffer sb = new StringBuffer();
     	for (String tradeDetail : trade) {
-    		System.out.print(tradeDetail + " ");
+    		sb.append(tradeDetail+" ");
     		if (tradeDetail==null || tradeDetail.trim().length()==0) {
     			allFieldsExist=false;
-    			System.out.println("");
-    			System.out.println("*******************************************************************");
-    			System.out.println("***** Rejected Trade due to missing Field "+trade[index]+" ********");
-    			System.out.println("*******************************************************************");
+    			logger.info("");
+    			logger.info("*******************************************************************");
+    			logger.info("***** Rejected Trade due to missing Field "+trade[index]+" ********");
+    			logger.info("*******************************************************************");
     			index++;
     			break;
     		} 
 		}
-		System.out.println("");
+    	sb.append("\n");
+		logger.info(sb.toString());
+		sb = null;
     	
     	return allFieldsExist;
     }
@@ -161,9 +165,9 @@ public class TradeProcessor {
     	}
     	
     	if (!validSymbol) {
-    		System.out.println("*******************************************************************");
-    		System.out.println("******  REJECTED TRADE DUE TO INVALID SYMBOL "+tradeSymbol+" ******");
-    		System.out.println("*******************************************************************");
+    		logger.info("*******************************************************************");
+    		logger.info("******  REJECTED TRADE DUE TO INVALID SYMBOL "+tradeSymbol+" ******");
+    		logger.info("*******************************************************************");
     	}
 
     	return validSymbol;
@@ -211,10 +215,10 @@ public class TradeProcessor {
     			if (firm.getFirm().equalsIgnoreCase(broker)) {
     				int initialTime = firm.getTime();
     				if (initialTime+60<timeInSecs) {
-    					System.out.println("*******************************************************************");
-    		    		System.out.println("******  REJECTED TRADE DUE TO OVER 3 ORDERS per MIN "+broker+" ******");
-    		    		System.out.println(initialTime+60+" < "+timeInSecs);
-    		    		System.out.println("*******************************************************************");
+    					logger.info("*******************************************************************");
+    		    		logger.info("******  REJECTED TRADE DUE TO OVER 3 ORDERS per MIN "+broker+" ******");
+    		    		logger.info(initialTime+60+" < "+timeInSecs);
+    		    		logger.info("*******************************************************************");
     					validBrokerOrder = false;
     					break;
     				} else if (initialTime+60>timeInSecs) {
@@ -247,9 +251,9 @@ public class TradeProcessor {
     	for (BrokerUniqueID firm : brokerList) {
     		if (broker.equalsIgnoreCase(firm.getBroker())) {
     			if (id==firm.getId()) {
-    				System.out.println("*******************************************************************");
-		    		System.out.println("******  REJECTED TRADE DUE TO IDENTICAL ID for "+broker+" with "+id+" ******");
-		    		System.out.println("*******************************************************************");
+    				logger.info("*******************************************************************");
+		    		logger.info("******  REJECTED TRADE DUE TO IDENTICAL ID for "+broker+" with "+id+" ******");
+		    		logger.info("*******************************************************************");
 		    		validBrokerID = false;
     			} else {
     				firm.setId(id);
@@ -264,11 +268,11 @@ public class TradeProcessor {
     
     
     private String getList() {
-    	logger.log(Level.INFO, "****** Getting Properties ******");
+    	logger.info("****** Getting Properties ******");
         PropertiesFile config = new PropertiesFile();
         Properties configFiles = config.getProps(propFile);
         
-        logger.log(Level.INFO, "****** Setting Up Initial Checks ******");
+        logger.info("****** Setting Up Initial Checks ******");
 
         String symbol = configFiles.getProperty("symbols");
         setDefaultList(symbol, symbolList);
@@ -290,7 +294,7 @@ public class TradeProcessor {
     		reader.close();
     		
     	} catch (IOException ex) {
-    		logger.log(Level.SEVERE, ex.getMessage());
+    		logger.error(ex.getMessage());
     	}
     }
     

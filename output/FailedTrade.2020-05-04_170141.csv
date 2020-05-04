@@ -1,0 +1,37 @@
+Time stamp,broker,sequence id,type,Symbol,Quantity,Price,Side
+10/5/2017 10:00:09,Ameriprise Financial,1,K,LOUM,200,29.87,Buy
+10/5/2017 10:00:42,Charles Schwab,2,2,DARK,100,20,Buy
+10/5/2017 10:01:50,Fidelity,4,2,LOUM,400,29.875,Sell
+10/5/2017 10:01:59,National Planning Corporation,4,K,BRGT,200,140.005,Buy
+10/5/2017 10:02:17,TD Ameritrade,6,K,LOUM,200,29.87,Buy
+10/5/2017 10:03:38,Ameriprise Financial,7,2,DARK,100,20,Buy
+10/5/2017 10:04:31,Wells Fargo Advisors,9,2,LOUM,400,29.875,Sell
+10/5/2017 10:06:06,Edward Jones,11,K,LOUM,200,29.87,Buy
+10/5/2017 10:06:58,Edward Jones,12,2,DARK,100,20,Bay
+10/5/2017 10:07:11,National Planning Corporation,13,2,LOUM,400,29.875,Sell
+10/5/2017 10:10:45,Ameriprise Financial,15,,HOOF,500,39.13,Sell
+10/5/2017 10:10:45,National Planning Corporation,15,K,LOUM,200,29.87,Buy
+10/5/2017 10:11:02,AXA Advisors,16,2,DARK,100,20,Buy
+10/5/2017 10:12:21,Edward Jones,18,2,LOUM,400,29.875,Sell
+10/5/2017 10:13:45,Wells Fargo Advisors,28,K,LEFT,200,140.005,Buy
+10/5/2017 10:15:02,TD Ameritrade,20,K,LOUM,200,29.87,Buy
+10/5/2017 10:17:03,Charles Schwab,21,2,DARK,100,20,Buy
+10/5/2017 10:18:05,AXA Advisors,22,2,LOUM,400,29.875,Sell
+10/5/2017 10:19:45,Wells Fargo Advisors,39,K,LOUM,200,29.87,Buy
+10/5/2017 10:20:01,National Planning Corporation,25,2,DARK,100,20,Buy
+10/5/2017 10:22:14,TD Ameritrade,27,2,LOUM,400,29.875,Sell
+10/5/2017 10:27:00,Wells Fargo Advisors,52,K,LOUM,200,29.87,Buy
+10/5/2017 10:30:56,Wells Fargo Advisors,61,2,DARK,100,20,Buy
+10/5/2017 10:33:22,Ameriprise Financial,30,2,LOUM,400,29.875,Sell
+10/5/2017 10:34:01,Edward Jones,32,K,LOUM,200,29.87,Buy
+10/5/2017 10:34:02,Ameriprise Financial,33,2,DARK,100,20,Buy
+10/5/2017 10:38:05,Wells Fargo Advisors,74,2,LOUM,400,29.875,Sell
+10/5/2017 10:40:41,Wells Fargo Advisors,80,K,LOUM,200,29.87,Buy
+10/5/2017 10:41:51,National Planning Corporation,37,2,DARK,100,20,Buy
+10/5/2017 10:43:12,Raymond James Financial,39,2,LOUM,400,29.875,Sell
+10/5/2017 10:45:06,Wells Fargo Advisors,85,K,LOUM,200,29.87,Buy
+10/5/2017 10:46:06,LPL Financial,42,2,DARK,100,20,Buy
+10/5/2017 10:49:12,Ameriprise Financial,44,2,LOUM,400,29.875,Sell
+10/5/2017 10:51:10,AXA Advisors,46,K,LOUM,200,29.87,Buy
+10/5/2017 10:52:00,AXA Advisors,47,2,DARK,100,20,Buy
+10/5/2017 10:55:48,Edward Jones,49,2,LOUM,400,29.875,Sell

@@ -1,0 +1,519 @@
+Time stamp,broker,sequence id,type,Symbol,Quantity,Price,Side
+10/5/2017 10:00:00,Fidelity,1,2,BARK,100,1.195,Buy
+10/5/2017 10:00:01,Charles Schwab,1,2,CARD,200,6.855,Sell
+10/5/2017 10:00:02,AXA Advisors,1,K,BRIC,5000,30.7,Sell
+10/5/2017 10:00:03,National Planning Corporation,1,K,LGHT,400,140,Buy
+10/5/2017 10:00:04,Edward Jones,1,K,HOOF,150,39.1,Buy
+10/5/2017 10:00:05,Raymond James Financial,1,K,YLLW,200,11,Buy
+10/5/2017 10:00:06,Wells Fargo Advisors,1,K,LGHT,100,140.1,Sell
+10/5/2017 10:00:08,LPL Financial,1,K,LGHT,600,140.005,Sell
+10/5/2017 10:00:11,TD Ameritrade,1,K,LOUD,200,10.95,Buy
+10/5/2017 10:00:40,Fidelity,2,2,LGHT,100,140.05,Buy
+10/5/2017 10:00:41,Fidelity,3,K,BARK,100,1.19,Buy
+10/5/2017 10:00:41,Wells Fargo Advisors,2,K,LGHT,100,140.01,Sell
+10/5/2017 10:00:42,Charles Schwab,3,K,HOOF,100,39.11,Buy
+10/5/2017 10:00:43,Edward Jones,2,2,BARK,400,88.3,Buy
+10/5/2017 10:00:43,TD Ameritrade,3,2,GLOO,500,40.01,Sell
+10/5/2017 10:00:44,Ameriprise Financial,2,K,LGHT,800,98.765,Sell
+10/5/2017 10:00:44,Ameriprise Financial,3,2,LOUD,400,10.96,Sell
+10/5/2017 10:00:45,TD Ameritrade,2,K,HOOF,200,76.48,Sell
+10/5/2017 10:00:45,Raymond James Financial,3,2,CARD,8000,6.555,Buy
+10/5/2017 10:00:46,Raymond James Financial,2,2,YLLW,100000,11.1,Sell
+10/5/2017 10:00:46,AXA Advisors,3,2,BRIC,400,30.71,Sell
+10/5/2017 10:00:47,AXA Advisors,2,2,CARD,700,6.9,Sell
+10/5/2017 10:00:48,LPL Financial,2,K,BRIC,300,30.705,Sell
+10/5/2017 10:00:49,National Planning Corporation,2,K,BRIC,200,30.71,Sell
+10/5/2017 10:00:49,Edward Jones,3,2,LOUD,400,10.96,Sell
+10/5/2017 10:00:50,National Planning Corporation,3,2,YLLW,550,11.205,Sell
+10/5/2017 10:00:51,LPL Financial,3,2,KRIL,30,6.03,Buy
+10/5/2017 10:01:32,Wells Fargo Advisors,3,2,HOOF,600,39.2,Sell
+10/5/2017 10:01:41,Edward Jones,4,2,YLLW,200,11.3,Sell
+10/5/2017 10:01:49,Wells Fargo Advisors,4,K,LGHT,100,98.78,Buy
+10/5/2017 10:01:51,Charles Schwab,4,2,LOUD,200,10.95,Sell
+10/5/2017 10:01:52,Ameriprise Financial,4,2,BRIC,460,30.705,Sell
+10/5/2017 10:01:52,LPL Financial,4,K,YLLW,1560,10.8,Buy
+10/5/2017 10:01:53,AXA Advisors,4,2,BRIC,1400,30.7,Sell
+10/5/2017 10:01:54,Raymond James Financial,4,2,BRIC,900,30.69,Buy
+10/5/2017 10:01:58,TD Ameritrade,4,2,LGHT,500,98.77,Sell
+10/5/2017 10:02:00,Fidelity,5,2,HOOF,100,39.12,Sell
+10/5/2017 10:02:00,Wells Fargo Advisors,6,K,LGHT,400,140,Buy
+10/5/2017 10:02:01,Ameriprise Financial,5,K,KRIL,500,6.075,Buy
+10/5/2017 10:02:02,TD Ameritrade,5,2,BARK,100,1.19,Sell
+10/5/2017 10:02:03,Raymond James Financial,5,2,VELL,100,12,Sell
+10/5/2017 10:02:04,AXA Advisors,5,2,CARD,100,6.65,Buy
+10/5/2017 10:02:05,LPL Financial,5,2,CARD,200,6.68,Buy
+10/5/2017 10:02:06,Charles Schwab,5,2,GLOO,100,40.02,Buy
+10/5/2017 10:02:07,Edward Jones,5,2,KRIL,300,6.08,Buy
+10/5/2017 10:02:08,Wells Fargo Advisors,5,2,HOOF,500,39.13,Sell
+10/5/2017 10:02:09,Raymond James Financial,6,K,LOUD,200,10.95,Buy
+10/5/2017 10:02:10,Fidelity,6,2,YLLW,600,11.11,Sell
+10/5/2017 10:02:11,Edward Jones,6,2,CARD,200,6.855,Sell
+10/5/2017 10:02:12,National Planning Corporation,5,2,YLLW,400,11.105,Sell
+10/5/2017 10:02:14,Charles Schwab,6,2,BARK,100,1.195,Buy
+10/5/2017 10:02:16,Ameriprise Financial,6,K,HOOF,150,39.1,Buy
+10/5/2017 10:02:20,AXA Advisors,6,K,YLLW,200,11,Buy
+10/5/2017 10:02:24,LPL Financial,6,K,BRIC,5000,30.7,Sell
+10/5/2017 10:02:25,National Planning Corporation,6,K,LGHT,600,140.005,Sell
+10/5/2017 10:03:19,AXA Advisors,7,K,HOOF,200,76.48,Sell
+10/5/2017 10:03:20,LPL Financial,7,2,YLLW,100000,11.1,Sell
+10/5/2017 10:03:30,Fidelity,7,K,LGHT,100,140.1,Sell
+10/5/2017 10:03:31,Charles Schwab,7,2,LGHT,100,140.05,Buy
+10/5/2017 10:03:32,Edward Jones,7,K,BARK,100,1.19,Buy
+10/5/2017 10:03:33,TD Ameritrade,7,2,BARK,400,88.3,Buy
+10/5/2017 10:03:34,Raymond James Financial,7,K,LGHT,800,98.765,Sell
+10/5/2017 10:03:35,Wells Fargo Advisors,8,K,BRIC,200,30.71,Sell
+10/5/2017 10:03:39,National Planning Corporation,7,2,CARD,700,6.9,Sell
+10/5/2017 10:03:41,Wells Fargo Advisors,7,K,BRIC,300,30.705,Sell
+10/5/2017 10:04:00,AXA Advisors,8,2,KRIL,30,6.03,Buy
+10/5/2017 10:04:09,LPL Financial,8,2,YLLW,550,11.205,Sell
+10/5/2017 10:04:10,Fidelity,8,K,LGHT,100,140.01,Sell
+10/5/2017 10:04:10,Edward Jones,8,2,LOUD,400,10.96,Sell
+10/5/2017 10:04:11,Charles Schwab,8,K,HOOF,100,39.11,Buy
+10/5/2017 10:04:12,Ameriprise Financial,8,2,GLOO,500,40.01,Sell
+10/5/2017 10:04:15,TD Ameritrade,8,2,CARD,8000,6.555,Buy
+10/5/2017 10:04:18,Raymond James Financial,8,2,BRIC,400,30.71,Sell
+10/5/2017 10:04:26,National Planning Corporation,8,2,HOOF,600,39.2,Sell
+10/5/2017 10:04:45,Wells Fargo Advisors,10,2,LOUD,200,10.95,Sell
+10/5/2017 10:05:00,Wells Fargo Advisors,11,2,YLLW,200,11.3,Sell
+10/5/2017 10:05:10,Fidelity,9,2,BRIC,460,30.705,Sell
+10/5/2017 10:05:11,Charles Schwab,9,2,LGHT,500,98.77,Sell
+10/5/2017 10:05:11,Edward Jones,9,2,BRIC,900,30.69,Buy
+10/5/2017 10:05:11,Ameriprise Financial,9,2,BRIC,1400,30.7,
+10/5/2017 10:05:11,TD Ameritrade,9,K,YLLW,1560,10.8,Buy
+10/5/2017 10:05:11,Raymond James Financial,9,K,LOUD,200,140.005,Buy
+10/5/2017 10:05:11,AXA Advisors,9,K,LGHT,100,98.78,Buy
+10/5/2017 10:05:11,LPL Financial,9,2,HOOF,100,39.12,Sell
+10/5/2017 10:05:11,National Planning Corporation,9,2,GLOO,100,40.02,Buy
+10/5/2017 10:05:11,Wells Fargo Advisors,12,2,KRIL,300,6.08,Buy
+10/5/2017 10:05:24,Charles Schwab,10,K,KRIL,500,6.075,Buy
+10/5/2017 10:05:24,Edward Jones,10,2,BARK,100,1.19,Sell
+10/5/2017 10:05:24,Ameriprise Financial,10,2,VELL,100,12,Sell
+10/5/2017 10:05:24,TD Ameritrade,10,2,CARD,100,6.65,Buy
+10/5/2017 10:05:24,Raymond James Financial,10,2,CARD,200,6.68,Buy
+10/5/2017 10:05:24,AXA Advisors,10,2,YLLW,400,11.105,Sell
+10/5/2017 10:05:24,LPL Financial,10,2,HOOF,500,39.13,Sell
+10/5/2017 10:05:24,National Planning Corporation,10,2,YLLW,600,11.11,Sell
+10/5/2017 10:05:24,Wells Fargo Advisors,13,K,BRIC,700,30.67,Buy
+10/5/2017 10:06:03,Fidelity,10,2,BARK,100,1.195,Buy
+10/5/2017 10:06:04,Fidelity,11,2,CARD,200,6.855,Sell
+10/5/2017 10:06:06,Charles Schwab,11,K,HOOF,150,39.1,Buy
+10/5/2017 10:06:06,Ameriprise Financial,11,K,LOUD,200,10.95,Buy
+10/5/2017 10:06:06,TD Ameritrade,11,K,YLLW,200,11,Buy
+10/5/2017 10:06:06,Raymond James Financial,11,K,BRIC,5000,30.7,Sell
+10/5/2017 10:06:06,AXA Advisors,11,K,LGHT,600,140.005,Sell
+10/5/2017 10:06:06,LPL Financial,11,K,LGHT,400,140,Buy
+10/5/2017 10:06:06,National Planning Corporation,11,K,LGHT,100,140.1,Sell
+10/5/2017 10:06:06,Wells Fargo Advisors,14,2,LGHT,100,140.05,Buy
+10/5/2017 10:06:58,Charles Schwab,12,K,BARK,100,1.19,Buy
+10/5/2017 10:06:58,Ameriprise Financial,12,2,BARK,400,88.3,Buy
+10/5/2017 10:06:58,TD Ameritrade,12,K,LGHT,800,98.765,Sell
+10/5/2017 10:06:58,Raymond James Financial,12,K,HOOF,200,76.48,Sell
+10/5/2017 10:06:58,AXA Advisors,12,2,YLLW,100000,11.1,Sell
+10/5/2017 10:06:58,LPL Financial,12,2,CARD,700,6.9,Sell
+10/5/2017 10:06:58,National Planning Corporation,12,K,BRIC,300,30.705,Sell
+10/5/2017 10:06:58,Wells Fargo Advisors,15,K,BRIC,200,30.71,Sell
+10/5/2017 10:06:59,Fidelity,12,K,LGHT,100,140.01,Sell
+10/5/2017 10:07:10,Fidelity,13,K,HOOF,100,39.11,Buy
+10/5/2017 10:07:11,Charles Schwab,13,2,LOUD,400,10.96,Sell
+10/5/2017 10:07:11,Edward Jones,13,2,GLOO,500,40.01,Sell
+10/5/2017 10:07:11,Ameriprise Financial,13,2,CARD,8000,6.555,Buy
+10/5/2017 10:07:11,TD Ameritrade,13,2,BRIC,400,30.71,Sell
+10/5/2017 10:07:11,Raymond James Financial,13,2,KRIL,30,6.03,Buy
+10/5/2017 10:07:11,AXA Advisors,13,2,YLLW,550,11.205,Sell
+10/5/2017 10:07:11,LPL Financial,13,2,HOOF,600,39.2,Sell
+10/5/2017 10:07:11,Wells Fargo Advisors,16,2,LOUD,200,10.95,Sell
+10/5/2017 10:07:51,Wells Fargo Advisors,17,2,YLLW,200,11.3,Sell
+10/5/2017 10:08:11,Wells Fargo Advisors,18,2,BRIC,460,30.705,Sell
+10/5/2017 10:08:22,Wells Fargo Advisors,19,2,LGHT,500,98.77,Sell
+10/5/2017 10:09:00,Fidelity,14,2,BRIC,900,30.69,Buy
+10/5/2017 10:09:04,Charles Schwab,14,2,BRIC,1400,30.7,Sell
+10/5/2017 10:09:04,Edward Jones,14,K,YLLW,1560,10.8,Buy
+10/5/2017 10:09:04,Ameriprise Financial,14,K,GLOO,200,140.005,Buy
+10/5/2017 10:09:04,TD Ameritrade,14,K,LGHT,100,98.78,Buy
+10/5/2017 10:09:04,Raymond James Financial,14,2,HOOF,100,39.12,Sell
+10/5/2017 10:09:04,AXA Advisors,14,2,GLOO,100,40.02,Buy
+10/5/2017 10:09:04,LPL Financial,14,2,KRIL,300,6.08,Buy
+10/5/2017 10:09:04,National Planning Corporation,14,K,KRIL,500,6.075,Buy
+10/5/2017 10:09:04,Wells Fargo Advisors,20,2,BARK,100,1.19,Sell
+10/5/2017 10:09:24,Wells Fargo Advisors,21,2,VELL,100,12,Sell
+10/5/2017 10:09:54,Wells Fargo Advisors,22,2,CARD,100,6.65,Buy
+10/5/2017 10:10:45,Charles Schwab,15,2,CARD,200,6.68,Buy
+10/5/2017 10:10:45,Edward Jones,15,2,YLLW,400,11.105,Sell
+10/5/2017 10:10:45,TD Ameritrade,15,2,YLLW,600,11.11,Sell
+10/5/2017 10:10:45,Raymond James Financial,15,2,BARK,100,1.195,Buy
+10/5/2017 10:10:45,AXA Advisors,15,2,CARD,200,6.855,Sell
+10/5/2017 10:10:45,LPL Financial,15,K,HOOF,150,39.1,Buy
+10/5/2017 10:10:45,Wells Fargo Advisors,23,K,LOUD,200,10.95,Buy
+10/5/2017 10:10:55,Wells Fargo Advisors,24,K,YLLW,200,11,Buy
+10/5/2017 10:10:59,Fidelity,15,K,BRIC,5000,30.7,Sell
+10/5/2017 10:11:02,Charles Schwab,16,K,LGHT,600,140.005,Sell
+10/5/2017 10:11:02,Edward Jones,16,K,LGHT,400,140,Buy
+10/5/2017 10:11:02,Ameriprise Financial,16,K,LGHT,100,140.1,Sell
+10/5/2017 10:11:02,TD Ameritrade,16,2,LGHT,100,140.05,Buy
+10/5/2017 10:11:02,Raymond James Financial,16,K,BARK,100,1.19,Buy
+10/5/2017 10:11:02,LPL Financial,16,2,BARK,400,88.3,Buy
+10/5/2017 10:11:02,National Planning Corporation,16,K,LGHT,800,98.765,Sell
+10/5/2017 10:11:02,Wells Fargo Advisors,25,K,HOOF,200,76.48,Sell
+10/5/2017 10:11:03,Fidelity,16,2,YLLW,100000,11.1,Sell
+10/5/2017 10:11:10,Fidelity,17,2,CARD,700,6.9,Sell
+10/5/2017 10:11:20,Fidelity,18,K,BRIC,300,30.705,Sell
+10/5/2017 10:11:51,Charles Schwab,17,K,BRIC,200,30.71,Sell
+10/5/2017 10:11:51,Edward Jones,17,K,LGHT,100,140.01,Sell
+10/5/2017 10:11:51,Ameriprise Financial,17,K,HOOF,100,39.11,Buy
+10/5/2017 10:11:51,TD Ameritrade,17,2,LOUD,400,10.96,Sell
+10/5/2017 10:11:51,Raymond James Financial,17,2,GLOO,500,40.01,Sell
+10/5/2017 10:11:51,AXA Advisors,17,2,CARD,8000,6.555,Buy
+10/5/2017 10:11:51,LPL Financial,17,2,BRIC,400,30.71,Sell
+10/5/2017 10:11:51,National Planning Corporation,17,2,KRIL,30,6.03,Buy
+10/5/2017 10:11:51,Wells Fargo Advisors,26,2,YLLW,550,11.205,Sell
+10/5/2017 10:12:21,Charles Schwab,18,2,HOOF,600,39.2,Sell
+10/5/2017 10:12:21,Ameriprise Financial,18,2,LOUD,200,10.95,Sell
+10/5/2017 10:12:21,TD Ameritrade,18,2,YLLW,200,11.3,Sell
+10/5/2017 10:12:21,Raymond James Financial,18,2,BRIC,460,30.705,Sell
+10/5/2017 10:12:21,AXA Advisors,18,2,LGHT,500,98.77,Sell
+10/5/2017 10:12:21,LPL Financial,18,2,BRIC,900,30.69,Buy
+10/5/2017 10:12:21,National Planning Corporation,18,2,BRIC,1400,30.7,Sell
+10/5/2017 10:12:21,Wells Fargo Advisors,27,K,YLLW,1560,10.8,Buy
+10/5/2017 10:13:56,Wells Fargo Advisors,29,K,LGHT,100,98.78,Buy
+10/5/2017 10:14:00,Fidelity,19,2,HOOF,100,39.12,Sell
+10/5/2017 10:14:01,Charles Schwab,19,2,GLOO,100,40.02,Buy
+10/5/2017 10:14:01,Edward Jones,19,2,KRIL,300,6.08,Buy
+10/5/2017 10:14:01,Ameriprise Financial,19,K,KRIL,500,6.075,Buy
+10/5/2017 10:14:01,TD Ameritrade,19,2,BARK,100,1.19,Sell
+10/5/2017 10:14:01,Raymond James Financial,19,2,VELL,100,12,Sell
+10/5/2017 10:14:01,AXA Advisors,19,2,CARD,100,6.65,Buy
+10/5/2017 10:14:01,LPL Financial,19,2,CARD,200,6.68,Buy
+10/5/2017 10:14:01,National Planning Corporation,19,2,YLLW,400,11.105,Sell
+10/5/2017 10:14:01,Wells Fargo Advisors,30,2,HOOF,500,39.13,Sell
+10/5/2017 10:15:01,Fidelity,20,2,YLLW,600,11.11,Sell
+10/5/2017 10:15:02,Charles Schwab,20,2,BARK,100,1.195,Buy
+10/5/2017 10:15:02,Edward Jones,20,2,CARD,200,6.855,Sell
+10/5/2017 10:15:02,Ameriprise Financial,20,K,HOOF,150,39.1,Buy
+10/5/2017 10:15:02,Raymond James Financial,20,K,LOUD,200,10.95,Buy
+10/5/2017 10:15:02,AXA Advisors,20,K,YLLW,200,11,Buy
+10/5/2017 10:15:02,LPL Financial,20,K,BRIC,5000,30.7,Sell
+10/5/2017 10:15:02,National Planning Corporation,20,K,LGHT,600,140.005,Sell
+10/5/2017 10:15:02,Wells Fargo Advisors,31,K,LGHT,400,140,Buy
+10/5/2017 10:16:02,Wells Fargo Advisors,32,K,LGHT,100,140.1,Sell
+10/5/2017 10:16:11,Wells Fargo Advisors,33,2,LGHT,100,140.05,Buy
+10/5/2017 10:17:00,Fidelity,21,K,BARK,100,1.19,Buy
+10/5/2017 10:17:03,Edward Jones,21,2,BARK,400,88.3,Buy
+10/5/2017 10:17:03,Ameriprise Financial,21,K,LGHT,800,98.765,Sell
+10/5/2017 10:17:03,TD Ameritrade,21,K,HOOF,200,76.48,Sell
+10/5/2017 10:17:03,Raymond James Financial,21,2,YLLW,100000,11.1,Sell
+10/5/2017 10:17:03,AXA Advisors,21,2,CARD,700,6.9,Sell
+10/5/2017 10:17:03,LPL Financial,21,K,BRIC,300,30.705,Sell
+10/5/2017 10:17:03,National Planning Corporation,21,K,BRIC,200,30.71,Sell
+10/5/2017 10:17:03,Wells Fargo Advisors,34,K,LGHT,100,140.01,Sell
+10/5/2017 10:17:22,Wells Fargo Advisors,35,K,HOOF,100,39.11,Buy
+10/5/2017 10:17:34,Wells Fargo Advisors,36,2,LOUD,400,10.96,Sell
+10/5/2017 10:18:00,Fidelity,22,2,GLOO,500,40.01,Sell
+10/5/2017 10:18:05,Charles Schwab,22,2,CARD,8000,6.555,Buy
+10/5/2017 10:18:05,Edward Jones,22,2,BRIC,400,30.71,Sell
+10/5/2017 10:18:05,Ameriprise Financial,22,2,KRIL,30,6.03,Buy
+10/5/2017 10:18:05,TD Ameritrade,22,2,YLLW,550,11.205,Sell
+10/5/2017 10:18:05,Raymond James Financial,22,2,HOOF,600,39.2,Sell
+10/5/2017 10:18:05,LPL Financial,22,2,LOUD,200,10.95,Sell
+10/5/2017 10:18:05,National Planning Corporation,22,2,YLLW,200,11.3,Sell
+10/5/2017 10:18:05,Wells Fargo Advisors,37,2,BRIC,460,30.705,Sell
+10/5/2017 10:19:30,Fidelity,23,2,LGHT,500,98.77,Sell
+10/5/2017 10:19:35,Charles Schwab,23,2,BRIC,900,30.69,Buy
+10/5/2017 10:19:35,Edward Jones,23,2,BRIC,1400,30.7,Sell
+10/5/2017 10:19:35,Ameriprise Financial,23,K,YLLW,1560,10.8,Buy
+10/5/2017 10:19:35,TD Ameritrade,23,K,GLOO,200,140.005,Buy
+10/5/2017 10:19:35,Raymond James Financial,23,K,LGHT,100,98.78,Buy
+10/5/2017 10:19:35,AXA Advisors,23,2,HOOF,100,39.12,Sell
+10/5/2017 10:19:35,LPL Financial,23,2,GLOO,100,40.02,Buy
+10/5/2017 10:19:35,National Planning Corporation,23,2,KRIL,300,6.08,Buy
+10/5/2017 10:19:35,Wells Fargo Advisors,38,K,KRIL,500,6.075,Buy
+10/5/2017 10:19:40,Fidelity,23,2,BARK,100,1.19,Sell
+10/5/2017 10:19:45,Charles Schwab,24,2,VELL,100,12,Sell
+10/5/2017 10:19:45,Edward Jones,24,2,CARD,100,6.65,Buy
+10/5/2017 10:19:45,Ameriprise Financial,24,2,CARD,200,6.68,Buy
+10/5/2017 10:19:45,TD Ameritrade,24,2,YLLW,400,11.105,Sell
+10/5/2017 10:19:45,Raymond James Financial,24,2,HOOF,500,39.13,Sell
+10/5/2017 10:19:45,AXA Advisors,24,2,BARK,100,1.195,Buy
+10/5/2017 10:19:45,LPL Financial,24,2,CARD,200,6.855,Sell
+10/5/2017 10:19:45,National Planning Corporation,24,K,HOOF,150,39.1,Buy
+10/5/2017 10:20:00,Fidelity,24,K,LOUD,200,10.95,Buy
+10/5/2017 10:20:01,Charles Schwab,25,K,YLLW,200,11,Buy
+10/5/2017 10:20:01,Edward Jones,25,K,BRIC,5000,30.7,Sell
+10/5/2017 10:20:01,Ameriprise Financial,25,K,LGHT,600,140.005,Sell
+10/5/2017 10:20:01,TD Ameritrade,25,K,LGHT,400,140,Buy
+10/5/2017 10:20:01,Raymond James Financial,25,K,LGHT,100,140.1,Sell
+10/5/2017 10:20:01,AXA Advisors,25,2,LGHT,100,140.05,Buy
+10/5/2017 10:20:01,LPL Financial,25,K,BARK,100,1.19,Buy
+10/5/2017 10:20:01,Wells Fargo Advisors,40,2,BARK,400,88.3,Buy
+10/5/2017 10:20:41,Wells Fargo Advisors,41,K,LGHT,800,98.765,Sell
+10/5/2017 10:21:00,Fidelity,25,K,HOOF,200,76.48,Sell
+10/5/2017 10:21:01,Charles Schwab,26,2,YLLW,100000,11.1,Sell
+10/5/2017 10:21:01,Edward Jones,26,2,CARD,700,6.9,Sell
+10/5/2017 10:21:01,Ameriprise Financial,26,K,BRIC,300,30.705,Sell
+10/5/2017 10:21:01,TD Ameritrade,26,K,BRIC,200,30.71,Sell
+10/5/2017 10:21:01,Raymond James Financial,26,K,LGHT,100,140.01,Sell
+10/5/2017 10:21:01,AXA Advisors,26,K,HOOF,100,39.11,Buy
+10/5/2017 10:21:01,LPL Financial,26,2,LOUD,400,10.96,Sell
+10/5/2017 10:21:01,National Planning Corporation,26,2,GLOO,500,40.01,Sell
+10/5/2017 10:21:01,Wells Fargo Advisors,42,2,CARD,8000,6.555,Buy
+10/5/2017 10:22:13,Fidelity,26,2,BRIC,400,30.71,Sell
+10/5/2017 10:22:14,Charles Schwab,27,2,KRIL,30,6.03,Buy
+10/5/2017 10:22:14,Edward Jones,27,2,YLLW,550,11.205,Sell
+10/5/2017 10:22:14,Ameriprise Financial,27,2,HOOF,600,39.2,Sell
+10/5/2017 10:22:14,Raymond James Financial,27,2,LOUD,200,10.95,Sell
+10/5/2017 10:22:14,AXA Advisors,27,2,YLLW,200,11.3,Sell
+10/5/2017 10:22:14,LPL Financial,27,2,BRIC,460,30.705,Sell
+10/5/2017 10:22:14,National Planning Corporation,27,2,LGHT,500,98.77,Sell
+10/5/2017 10:22:14,Wells Fargo Advisors,43,2,BRIC,900,30.69,Buy
+10/5/2017 10:23:00,Fidelity,27,2,BRIC,1400,30.7,Sell
+10/5/2017 10:23:01,Charles Schwab,28,K,YLLW,1560,10.8,Buy
+10/5/2017 10:23:01,Edward Jones,28,K,BARK,200,140.005,Buy
+10/5/2017 10:23:01,Ameriprise Financial,28,K,LGHT,100,98.78,Buy
+10/5/2017 10:23:01,TD Ameritrade,28,2,HOOF,100,39.12,Sell
+10/5/2017 10:23:01,Raymond James Financial,28,2,GLOO,100,40.02,Buy
+10/5/2017 10:23:01,AXA Advisors,28,2,KRIL,300,6.08,Buy
+10/5/2017 10:23:01,LPL Financial,28,K,KRIL,500,6.075,Buy
+10/5/2017 10:23:01,National Planning Corporation,28,2,BARK,100,1.19,Sell
+10/5/2017 10:23:01,Wells Fargo Advisors,44,2,VELL,100,12,Sell
+10/5/2017 10:23:27,Wells Fargo Advisors,45,2,CARD,100,6.65,Buy
+10/5/2017 10:23:50,Wells Fargo Advisors,46,2,CARD,200,6.68,Buy
+10/5/2017 10:24:31,Wells Fargo Advisors,47,2,YLLW,400,11.105,Sell
+10/5/2017 10:24:40,Wells Fargo Advisors,48,2,HOOF,500,39.13,Sell
+10/5/2017 10:25:31,Wells Fargo Advisors,49,2,YLLW,600,11.11,Sell
+10/5/2017 10:25:45,Transamerica Financial,1,2,BARK,100,1.195,Buy
+10/5/2017 10:26:32,Wells Fargo Advisors,50,2,CARD,200,6.855,Sell
+10/5/2017 10:26:34,Wells Fargo Advisors,51,K,HOOF,150,39.1,Buy
+10/5/2017 10:27:01,Wells Fargo Advisors,53,K,LOUD,200,10.95,Buy
+10/5/2017 10:28:10,Wells Fargo Advisors,54,K,YLLW,200,11,Buy
+10/5/2017 10:28:26,Wells Fargo Advisors,55,K,BRIC,5000,30.7,Sell
+10/5/2017 10:29:00,Wells Fargo Advisors,56,K,LGHT,600,140.005,Sell
+10/5/2017 10:29:10,Wells Fargo Advisors,57,K,LGHT,400,140,Buy
+10/5/2017 10:29:43,Wells Fargo Advisors,58,K,LGHT,100,140.1,Sell
+10/5/2017 10:30:11,Wells Fargo Advisors,59,2,LGHT,100,140.05,Buy
+10/5/2017 10:30:15,Wells Fargo Advisors,60,K,BARK,100,1.19,Buy
+10/5/2017 10:31:15,Wells Fargo Advisors,62,2,BARK,400,88.3,Buy
+10/5/2017 10:31:35,Wells Fargo Advisors,63,K,LGHT,800,98.765,Sell
+10/5/2017 10:32:10,Fidelity,28,K,HOOF,200,76.48,Sell
+10/5/2017 10:32:11,Charles Schwab,29,2,YLLW,100000,11.1,Sell
+10/5/2017 10:32:11,Edward Jones,29,2,CARD,700,6.9,Sell
+10/5/2017 10:32:11,Ameriprise Financial,29,K,BRIC,300,30.705,Sell
+10/5/2017 10:32:11,TD Ameritrade,29,K,BRIC,200,30.71,Sell
+10/5/2017 10:32:11,Raymond James Financial,29,K,LGHT,100,140.01,Sell
+10/5/2017 10:32:11,AXA Advisors,29,K,HOOF,100,39.11,Buy
+10/5/2017 10:32:11,LPL Financial,29,2,LOUD,400,10.96,Sell
+10/5/2017 10:32:11,National Planning Corporation,29,2,GLOO,500,40.01,Sell
+10/5/2017 10:32:11,Wells Fargo Advisors,64,2,CARD,8000,6.555,Buy
+10/5/2017 10:32:41,Wells Fargo Advisors,65,2,BRIC,400,30.71,Sell
+10/5/2017 10:33:20,Fidelity,29,2,KRIL,30,6.03,Buy
+10/5/2017 10:33:22,Charles Schwab,30,2,YLLW,550,11.205,Sell
+10/5/2017 10:33:22,Edward Jones,30,2,HOOF,600,39.2,Sell
+10/5/2017 10:33:22,TD Ameritrade,30,2,LOUD,200,10.95,Sell
+10/5/2017 10:33:22,Raymond James Financial,30,2,YLLW,200,11.3,Sell
+10/5/2017 10:33:22,AXA Advisors,30,2,BRIC,460,30.705,Sell
+10/5/2017 10:33:22,LPL Financial,30,2,LGHT,500,98.77,Sell
+10/5/2017 10:33:22,National Planning Corporation,30,2,BRIC,900,30.69,Buy
+10/5/2017 10:33:22,Wells Fargo Advisors,66,2,BRIC,1400,30.7,Sell
+10/5/2017 10:33:25,Wells Fargo Advisors,67,K,YLLW,1560,10.8,Buy
+10/5/2017 10:33:40,Fidelity,30,K,LOUD,200,140.005,Buy
+10/5/2017 10:33:42,Charles Schwab,31,K,LGHT,100,98.78,Buy
+10/5/2017 10:33:42,Edward Jones,31,2,HOOF,100,39.12,Sell
+10/5/2017 10:33:42,Ameriprise Financial,31,2,GLOO,100,40.02,Buy
+10/5/2017 10:33:42,TD Ameritrade,31,2,KRIL,300,6.08,Buy
+10/5/2017 10:33:42,Raymond James Financial,31,K,KRIL,500,6.075,Buy
+10/5/2017 10:33:42,AXA Advisors,31,2,BARK,100,1.19,Sell
+10/5/2017 10:33:42,LPL Financial,31,2,VELL,100,12,Sell
+10/5/2017 10:33:42,National Planning Corporation,31,2,CARD,100,6.65,Buy
+10/5/2017 10:33:42,Wells Fargo Advisors,68,2,CARD,200,6.68,Buy
+10/5/2017 10:33:51,LPL Financial,32,2,YLLW,400,11.105,Sell
+10/5/2017 10:33:52,LPL Financial,33,2,HOOF,500,39.13,Sell
+10/5/2017 10:33:56,LPL Financial,34,2,YLLW,600,11.11,Sell
+10/5/2017 10:34:00,Fidelity,31,2,BARK,100,1.195,Buy
+10/5/2017 10:34:01,Fidelity,32,2,CARD,200,6.855,Sell
+10/5/2017 10:34:01,Charles Schwab,32,K,HOOF,150,39.1,Buy
+10/5/2017 10:34:01,Ameriprise Financial,32,K,LOUD,200,10.95,Buy
+10/5/2017 10:34:01,TD Ameritrade,32,K,YLLW,200,11,Buy
+10/5/2017 10:34:01,Raymond James Financial,32,K,BRIC,5000,30.7,Sell
+10/5/2017 10:34:01,AXA Advisors,32,K,LGHT,600,140.005,Sell
+10/5/2017 10:34:01,National Planning Corporation,32,K,LGHT,400,140,Buy
+10/5/2017 10:34:01,Wells Fargo Advisors,69,K,LGHT,100,140.1,Sell
+10/5/2017 10:34:02,Charles Schwab,33,2,LGHT,100,140.05,Buy
+10/5/2017 10:34:02,Edward Jones,33,K,BARK,100,1.19,Buy
+10/5/2017 10:34:02,TD Ameritrade,33,2,BARK,400,88.3,Buy
+10/5/2017 10:34:02,Raymond James Financial,33,K,LGHT,800,98.765,Sell
+10/5/2017 10:34:02,AXA Advisors,33,K,HOOF,200,76.48,Sell
+10/5/2017 10:34:02,National Planning Corporation,33,2,YLLW,100000,11.1,Sell
+10/5/2017 10:34:02,Wells Fargo Advisors,70,2,CARD,700,6.9,Sell
+10/5/2017 10:35:05,Charles Schwab,34,K,BRIC,300,30.705,Sell
+10/5/2017 10:35:05,Edward Jones,34,K,BRIC,200,30.71,Sell
+10/5/2017 10:35:05,Ameriprise Financial,34,K,LGHT,100,140.01,Sell
+10/5/2017 10:35:05,TD Ameritrade,34,K,HOOF,100,39.11,Buy
+10/5/2017 10:35:05,Raymond James Financial,34,2,LOUD,400,10.96,Sell
+10/5/2017 10:35:05,AXA Advisors,34,2,GLOO,500,40.01,Sell
+10/5/2017 10:35:05,National Planning Corporation,34,2,CARD,8000,6.555,Buy
+10/5/2017 10:35:05,Wells Fargo Advisors,71,2,BRIC,400,30.71,Sell
+10/5/2017 10:35:24,Fidelity,33,2,KRIL,30,6.03,Buy
+10/5/2017 10:36:22,Wells Fargo Advisors,72,2,YLLW,550,11.205,Sell
+10/5/2017 10:37:05,Wells Fargo Advisors,73,2,HOOF,600,39.2,Sell
+10/5/2017 10:38:33,Wells Fargo Advisors,75,2,LOUD,200,10.95,Sell
+10/5/2017 10:38:57,Wells Fargo Advisors,76,2,YLLW,200,11.3,Sell
+10/5/2017 10:39:09,Wells Fargo Advisors,77,2,BRIC,460,30.705,Sell
+10/5/2017 10:39:28,Wells Fargo Advisors,78,2,LGHT,500,98.77,Sell
+10/5/2017 10:40:00,Fidelity,34,2,BRIC,900,30.69,Buy
+10/5/2017 10:40:01,Charles Schwab,35,2,BRIC,1400,30.7,Sell
+10/5/2017 10:40:01,Edward Jones,35,K,YLLW,1560,10.8,Buy
+10/5/2017 10:40:01,Ameriprise Financial,35,K,BARK,200,140.005,Buy
+10/5/2017 10:40:01,TD Ameritrade,35,K,LGHT,100,98.78,Buy
+10/5/2017 10:40:01,Raymond James Financial,35,2,HOOF,100,39.12,Sell
+10/5/2017 10:40:01,AXA Advisors,35,2,GLOO,100,40.02,Buy
+10/5/2017 10:40:01,LPL Financial,35,2,KRIL,300,6.08,Buy
+10/5/2017 10:40:01,National Planning Corporation,35,K,KRIL,500,6.075,Buy
+10/5/2017 10:40:01,Wells Fargo Advisors,79,2,BARK,100,1.19,Sell
+10/5/2017 10:40:40,Fidelity,35,2,VELL,100,12,Sell
+10/5/2017 10:40:41,Charles Schwab,36,2,CARD,100,6.65,Buy
+10/5/2017 10:40:41,Edward Jones,36,2,CARD,200,6.68,Buy
+10/5/2017 10:40:41,Ameriprise Financial,36,2,YLLW,400,11.105,Sell
+10/5/2017 10:40:41,TD Ameritrade,36,2,HOOF,500,39.13,Sell
+10/5/2017 10:40:41,Raymond James Financial,36,2,YLLW,600,11.11,Sell
+10/5/2017 10:40:41,AXA Advisors,36,2,BARK,100,1.195,Buy
+10/5/2017 10:40:41,LPL Financial,36,2,CARD,200,6.855,Sell
+10/5/2017 10:40:41,National Planning Corporation,36,K,HOOF,150,39.1,Buy
+10/5/2017 10:41:50,Fidelity,36,K,LOUD,200,10.95,Buy
+10/5/2017 10:41:51,Charles Schwab,37,K,YLLW,200,11,Buy
+10/5/2017 10:41:51,Edward Jones,37,K,BRIC,5000,30.7,Sell
+10/5/2017 10:41:51,Ameriprise Financial,37,K,LGHT,600,140.005,Sell
+10/5/2017 10:41:51,TD Ameritrade,37,K,LGHT,400,140,Buy
+10/5/2017 10:41:51,Raymond James Financial,37,K,LGHT,100,140.1,Sell
+10/5/2017 10:41:51,AXA Advisors,37,2,LGHT,100,140.05,Buy
+10/5/2017 10:41:51,LPL Financial,37,K,BARK,100,1.19,Buy
+10/5/2017 10:41:51,Wells Fargo Advisors,81,2,BARK,400,88.3,Buy
+10/5/2017 10:42:00,Fidelity,37,K,LGHT,800,98.765,Sell
+10/5/2017 10:42:01,Charles Schwab,38,K,HOOF,200,76.48,Sell
+10/5/2017 10:42:01,Edward Jones,38,2,YLLW,100000,11.1,Sell
+10/5/2017 10:42:01,Ameriprise Financial,38,2,CARD,700,6.9,Sell
+10/5/2017 10:42:01,TD Ameritrade,38,K,BRIC,300,30.705,Sell
+10/5/2017 10:42:01,Raymond James Financial,38,K,BRIC,200,30.71,Sell
+10/5/2017 10:42:01,AXA Advisors,38,K,LGHT,100,140.01,Sell
+10/5/2017 10:42:01,LPL Financial,38,K,HOOF,100,39.11,Buy
+10/5/2017 10:42:01,National Planning Corporation,38,2,LOUD,400,10.96,Sell
+10/5/2017 10:42:01,Wells Fargo Advisors,82,2,GLOO,500,40.01,Sell
+10/5/2017 10:43:10,Fidelity,38,2,CARD,8000,6.555,Buy
+10/5/2017 10:43:11,Charles Schwab,39,2,BRIC,400,30.71,Sell
+10/5/2017 10:43:11,Edward Jones,39,2,KRIL,30,6.03,Buy
+10/5/2017 10:43:11,Ameriprise Financial,39,2,YLLW,550,11.205,Sell
+10/5/2017 10:43:11,TD Ameritrade,39,2,HOOF,600,39.2,Sell
+10/5/2017 10:43:13,AXA Advisors,39,2,LOUD,200,10.95,Sell
+10/5/2017 10:43:14,LPL Financial,39,2,YLLW,200,11.3,Sell
+10/5/2017 10:43:15,National Planning Corporation,39,2,BRIC,460,30.705,Sell
+10/5/2017 10:43:16,Wells Fargo Advisors,83,2,LGHT,500,98.77,Sell
+10/5/2017 10:44:20,Fidelity,39,2,BRIC,900,30.69,Buy
+10/5/2017 10:44:21,Charles Schwab,40,2,BRIC,1400,30.7,Sell
+10/5/2017 10:44:22,Edward Jones,40,K,YLLW,1560,10.8,Buy
+10/5/2017 10:44:23,Ameriprise Financial,40,K,CARD,200,140.005,Buy
+10/5/2017 10:44:24,TD Ameritrade,40,K,LGHT,100,98.78,Buy
+10/5/2017 10:44:25,Raymond James Financial,40,2,HOOF,100,39.12,Sell
+10/5/2017 10:44:26,AXA Advisors,40,2,GLOO,100,40.02,Buy
+10/5/2017 10:44:27,LPL Financial,40,2,KRIL,300,6.08,Buy
+10/5/2017 10:44:28,National Planning Corporation,40,K,KRIL,500,6.075,Buy
+10/5/2017 10:44:29,Wells Fargo Advisors,84,2,BARK,100,1.19,Sell
+10/5/2017 10:45:00,Fidelity,40,2,VELL,100,12,Sell
+10/5/2017 10:45:01,Charles Schwab,41,2,CARD,100,6.65,Buy
+10/5/2017 10:45:02,Raymond James Financial,41,2,YLLW,600,11.11,Sell
+10/5/2017 10:45:03,TD Ameritrade,41,2,HOOF,500,39.13,Sell
+10/5/2017 10:45:04,Ameriprise Financial,41,2,YLLW,400,11.105,Sell
+10/5/2017 10:45:05,Edward Jones,41,2,CARD,200,6.68,Buy
+10/5/2017 10:45:07,National Planning Corporation,41,K,HOOF,150,39.1,Buy
+10/5/2017 10:45:08,LPL Financial,41,2,CARD,200,6.855,Sell
+10/5/2017 10:45:09,AXA Advisors,41,2,BARK,100,1.195,Buy
+10/5/2017 10:45:10,Waddell & Reed,1,K,LOUD,200,10.95,Buy
+10/5/2017 10:46:01,Fidelity,41,K,YLLW,200,11,Buy
+10/5/2017 10:46:02,Edward Jones,42,K,LGHT,600,140.005,Sell
+10/5/2017 10:46:03,TD Ameritrade,42,K,LGHT,100,140.1,Sell
+10/5/2017 10:46:04,Raymond James Financial,42,2,LGHT,100,140.05,Buy
+10/5/2017 10:46:05,AXA Advisors,42,K,BARK,100,1.19,Buy
+10/5/2017 10:46:08,Charles Schwab,42,K,BRIC,5000,30.7,Sell
+10/5/2017 10:46:09,Ameriprise Financial,42,K,LGHT,400,140,Buy
+10/5/2017 10:46:11,National Planning Corporation,42,2,BARK,400,88.3,Buy
+10/5/2017 10:46:22,Wells Fargo Advisors,86,K,LGHT,800,98.765,Sell
+10/5/2017 10:47:01,Wells Fargo Advisors,87,2,CARD,8000,6.555,Buy
+10/5/2017 10:47:02,Ameriprise Financial,43,K,BRIC,300,30.705,Sell
+10/5/2017 10:47:03,AXA Advisors,43,K,HOOF,100,39.11,Buy
+10/5/2017 10:47:04,National Planning Corporation,43,2,GLOO,500,40.01,Sell
+10/5/2017 10:47:05,LPL Financial,43,2,LOUD,400,10.96,Sell
+10/5/2017 10:47:06,Raymond James Financial,43,K,LGHT,100,140.01,Sell
+10/5/2017 10:47:07,TD Ameritrade,43,K,BRIC,200,30.71,Sell
+10/5/2017 10:47:08,Edward Jones,43,2,CARD,700,6.9,Sell
+10/5/2017 10:47:09,Charles Schwab,43,2,YLLW,100000,11.1,Sell
+10/5/2017 10:47:10,Fidelity,42,K,HOOF,200,76.48,Sell
+10/5/2017 10:48:08,Waddell & Reed,2,2,BRIC,400,30.71,Sell
+10/5/2017 10:49:10,Raymond James Financial,44,2,YLLW,200,11.3,Sell
+10/5/2017 10:49:10,AXA Advisors,44,2,BRIC,460,30.705,Sell
+10/5/2017 10:49:11,TD Ameritrade,44,2,LOUD,200,10.95,Sell
+10/5/2017 10:49:12,Wells Fargo Advisors,88,2,BRIC,1400,30.7,Sell
+10/5/2017 10:49:13,Edward Jones,44,2,HOOF,600,39.2,Sell
+10/5/2017 10:49:14,Charles Schwab,44,2,YLLW,550,11.205,Sell
+10/5/2017 10:49:16,Fidelity,43,2,KRIL,30,6.03,Buy
+10/5/2017 10:49:16,LPL Financial,44,2,LGHT,500,98.77,Sell
+10/5/2017 10:49:18,National Planning Corporation,44,2,BRIC,900,30.69,Buy
+10/5/2017 10:50:20,Ameriprise Financial,45,2,HOOF,100,39.12,Sell
+10/5/2017 10:50:21,Edward Jones,45,K,LGHT,100,98.78,Buy
+10/5/2017 10:50:22,Charles Schwab,45,K,HOOF,200,140.005,Buy
+10/5/2017 10:50:23,Fidelity,44,K,YLLW,1560,10.8,Buy
+10/5/2017 10:50:24,Wells Fargo Advisors,89,2,CARD,100,6.65,Buy
+10/5/2017 10:50:25,National Planning Corporation,45,2,VELL,100,12,Sell
+10/5/2017 10:50:26,LPL Financial,45,2,BARK,100,1.19,Sell
+10/5/2017 10:50:27,AXA Advisors,45,K,KRIL,500,6.075,Buy
+10/5/2017 10:50:28,Raymond James Financial,45,2,KRIL,300,6.08,Buy
+10/5/2017 10:50:29,TD Ameritrade,45,2,GLOO,100,40.02,Buy
+10/5/2017 10:51:06,Wells Fargo Advisors,90,2,CARD,200,6.68,Buy
+10/5/2017 10:51:11,Raymond James Financial,46,K,HOOF,150,39.1,Buy
+10/5/2017 10:51:12,TD Ameritrade,46,2,CARD,200,6.855,Sell
+10/5/2017 10:51:13,Ameriprise Financial,46,2,BARK,100,1.195,Buy
+10/5/2017 10:51:14,Edward Jones,46,2,YLLW,600,11.11,Sell
+10/5/2017 10:51:15,Charles Schwab,46,2,HOOF,500,39.13,Sell
+10/5/2017 10:51:16,Fidelity,45,2,YLLW,400,11.105,Sell
+10/5/2017 10:51:18,National Planning Corporation,46,K,YLLW,200,11,Buy
+10/5/2017 10:51:20,LPL Financial,46,K,LOUD,200,10.95,Buy
+10/5/2017 10:52:01,Charles Schwab,47,K,LGHT,600,140.005,Sell
+10/5/2017 10:52:03,Ameriprise Financial,47,K,LGHT,100,140.1,Sell
+10/5/2017 10:52:04,Raymond James Financial,47,K,BARK,100,1.19,Buy
+10/5/2017 10:52:05,TD Ameritrade,47,2,LGHT,100,140.05,Buy
+10/5/2017 10:52:06,Edward Jones,47,K,LGHT,400,140,Buy
+10/5/2017 10:52:07,Fidelity,46,K,BRIC,5000,30.7,Sell
+10/5/2017 10:52:09,National Planning Corporation,47,K,LGHT,800,98.765,Sell
+10/5/2017 10:52:10,LPL Financial,47,2,BARK,400,88.3,Buy
+10/5/2017 10:52:52,Wells Fargo Advisors,91,K,HOOF,200,76.48,Sell
+10/5/2017 10:53:20,Wells Fargo Advisors,92,2,YLLW,100000,11.1,Sell
+10/5/2017 10:54:01,Edward Jones,48,K,BRIC,200,30.71,Sell
+10/5/2017 10:54:03,Raymond James Financial,48,2,LOUD,400,10.96,Sell
+10/5/2017 10:54:06,Ameriprise Financial,48,K,LGHT,100,140.01,Sell
+10/5/2017 10:54:07,National Planning Corporation,48,2,BRIC,400,30.71,Sell
+10/5/2017 10:54:08,LPL Financial,48,2,CARD,8000,6.555,Buy
+10/5/2017 10:54:09,AXA Advisors,48,2,GLOO,500,40.01,Sell
+10/5/2017 10:54:10,Charles Schwab,48,K,BRIC,300,30.705,Sell
+10/5/2017 10:54:11,TD Ameritrade,48,K,HOOF,100,39.11,Buy
+10/5/2017 10:54:12,Fidelity,47,2,CARD,700,6.9,Sell
+10/5/2017 10:55:10,Wells Fargo Advisors,93,2,KRIL,30,6.03,Buy
+10/5/2017 10:55:39,Wells Fargo Advisors,94,K,YLLW,1560,10.8,Buy
+10/5/2017 10:55:40,LPL Financial,49,2,BRIC,900,30.69,Buy
+10/5/2017 10:55:41,National Planning Corporation,49,2,BRIC,1400,30.7,Sell
+10/5/2017 10:55:42,Fidelity,48,2,YLLW,550,11.205,Sell
+10/5/2017 10:55:44,Raymond James Financial,49,2,BRIC,460,30.705,Sell
+10/5/2017 10:55:46,TD Ameritrade,49,2,YLLW,200,11.3,Sell
+10/5/2017 10:55:47,Ameriprise Financial,49,2,LOUD,200,10.95,Sell
+10/5/2017 10:55:49,Charles Schwab,49,2,HOOF,600,39.2,Sell
+10/5/2017 10:55:49,AXA Advisors,49,2,LGHT,500,98.77,Sell
+10/5/2017 10:55:50,Ameriprise Financial,50,2,HOOF,100,39.12,Sell
+10/5/2017 10:55:51,Raymond James Financial,50,2,GLOO,100,40.02,Buy
+10/5/2017 10:55:52,LPL Financial,50,K,KRIL,500,6.075,Buy
+10/5/2017 10:55:53,National Planning Corporation,50,2,BARK,100,1.19,Sell
+10/5/2017 10:55:54,Fidelity,49,K,LOUD,200,140.005,Buy
+10/5/2017 10:55:55,Charles Schwab,50,K,LGHT,100,98.78,Buy
+10/5/2017 10:55:58,AXA Advisors,50,2,KRIL,300,6.08,Buy
+10/5/2017 10:56:00,Wells Fargo Advisors,95,2,VELL,100,12,Sell
+10/5/2017 10:57:50,Wells Fargo Advisors,96,2,CARD,100,6.65,Buy
+10/5/2017 10:57:54,Wells Fargo Advisors,97,2,CARD,200,6.68,Buy
+10/5/2017 10:58:50,Wells Fargo Advisors,98,2,YLLW,400,11.105,Sell
+10/5/2017 10:59:00,Fidelity,50,2,HOOF,500,39.13,Sell
+10/5/2017 10:59:01,Charles Schwab,51,2,YLLW,600,11.11,Sell
+10/5/2017 10:59:40,Wells Fargo Advisors,99,K,VELL,200,140.005,Buy
+10/5/2017 10:59:54,Edward Jones,50,K,LGHT,100,98.78,Buy
+10/5/2017 10:59:59,Wells Fargo Advisors,100,2,HOOF,100,39.12,Sell
