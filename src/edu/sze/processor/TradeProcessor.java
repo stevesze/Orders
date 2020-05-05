@@ -26,10 +26,17 @@ public class TradeProcessor {
     private String propFile = "order.properties";
     
     private List<String> symbolList = new ArrayList<String>();
-    private List<FirmsBean> firmList = new ArrayList<FirmsBean>();
+
+	private List<FirmsBean> firmList = new ArrayList<FirmsBean>();
     
     private List<BrokerUniqueID> brokerList = new ArrayList<BrokerUniqueID>();
     
+    static private int successful = 0;
+    static private int fail_missingFields = 0;
+    static private int fail_symbolsInvalid = 0;
+    static private int fail_brokerLimit = 0;
+    static private int fail_brokerID = 0;
+    static private int total_transaction = 0;
     
     public static void main(String[] args) {
 
@@ -39,7 +46,21 @@ public class TradeProcessor {
         String trades = tp.getList();
         tp.runTradeCheck(trades);
         
+        logger.info("Successful trades = "+successful);
+        logger.info("Rejected trades for missing fields = "+fail_missingFields);
+        logger.info("Rejected trades for invalid symbols = "+fail_symbolsInvalid);
+        logger.info("Rejected trades for broker limit = "+fail_brokerLimit);
+        logger.info("Rejected trades for broker seq number = "+fail_brokerID);
+        logger.info("Total number of trades = "+total_transaction);
         
+        
+    }
+    
+    public TradeProcessor() {
+    	
+        String trades = getList();
+        runTradeCheck(trades);
+    	
     }
     
     
@@ -64,6 +85,7 @@ public class TradeProcessor {
     				result.output(nextLine, fileFailed);
     				nextLine = reader.readLine();
     			} else {
+    				total_transaction++;
     				/** 
         			 * 1st Check : All Fields exist
         			 * 
@@ -116,6 +138,7 @@ public class TradeProcessor {
         			result.output(nextLine, fileAll);
     				if (validTrade) {
     					result.output(nextLine, fileSuccess);
+    					successful++;
     				} else {
     					result.output(nextLine, fileFailed);
     				}
@@ -143,6 +166,7 @@ public class TradeProcessor {
     			logger.info("*******************************************************************");
     			logger.info("***** Rejected Trade due to missing Field "+trade[index]+" ********");
     			logger.info("*******************************************************************");
+    			fail_missingFields++;
     			index++;
     			break;
     		} 
@@ -168,6 +192,7 @@ public class TradeProcessor {
     		logger.info("*******************************************************************");
     		logger.info("******  REJECTED TRADE DUE TO INVALID SYMBOL "+tradeSymbol+" ******");
     		logger.info("*******************************************************************");
+    		fail_symbolsInvalid++;
     	}
 
     	return validSymbol;
@@ -219,6 +244,7 @@ public class TradeProcessor {
     		    		logger.info("******  REJECTED TRADE DUE TO OVER 3 ORDERS per MIN "+broker+" ******");
     		    		logger.info(initialTime+60+" < "+timeInSecs);
     		    		logger.info("*******************************************************************");
+    		    		fail_brokerLimit++;
     					validBrokerOrder = false;
     					break;
     				} else if (initialTime+60>timeInSecs) {
@@ -254,6 +280,7 @@ public class TradeProcessor {
     				logger.info("*******************************************************************");
 		    		logger.info("******  REJECTED TRADE DUE TO IDENTICAL ID for "+broker+" with "+id+" ******");
 		    		logger.info("*******************************************************************");
+		    		fail_brokerID++;
 		    		validBrokerID = false;
     			} else {
     				firm.setId(id);
@@ -298,6 +325,33 @@ public class TradeProcessor {
     	}
     }
     
-    
+    public static int getSuccessful() {
+		return successful;
+	}
+
+
+	public static int getFail_missingFields() {
+		return fail_missingFields;
+	}
+
+
+	public static int getFail_symbolsInvalid() {
+		return fail_symbolsInvalid;
+	}
+
+
+	public static int getFail_brokerLimit() {
+		return fail_brokerLimit;
+	}
+
+
+	public static int getFail_brokerID() {
+		return fail_brokerID;
+	}
+
+
+	public static int getTotal_transaction() {
+		return total_transaction;
+	}
 
 }
